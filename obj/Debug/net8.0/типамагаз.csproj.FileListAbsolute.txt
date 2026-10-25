@@ -1,0 +1,28 @@
+/home/roman/programação/типамагаз/obj/Debug/net8.0/типамагаз.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/programação/типамагаз/obj/Debug/net8.0/типамагаз.AssemblyInfoInputs.cache
+/home/roman/programação/типамагаз/obj/Debug/net8.0/типамагаз.AssemblyInfo.cs
+/home/roman/programação/типамагаз/obj/Debug/net8.0/типамагаз.csproj.CoreCompileInputs.cache
+/home/roman/programação/типамагаз/bin/Debug/net8.0/типамагаз
+/home/roman/programação/типамагаз/bin/Debug/net8.0/типамагаз.deps.json
+/home/roman/programação/типамагаз/bin/Debug/net8.0/типамагаз.runtimeconfig.json
+/home/roman/programação/типамагаз/bin/Debug/net8.0/типамагаз.dll
+/home/roman/programação/типамагаз/bin/Debug/net8.0/типамагаз.pdb
+/home/roman/programação/типамагаз/obj/Debug/net8.0/типамагаз.dll
+/home/roman/programação/типамагаз/obj/Debug/net8.0/refint/типамагаз.dll
+/home/roman/programação/типамагаз/obj/Debug/net8.0/типамагаз.pdb
+/home/roman/programação/типамагаз/obj/Debug/net8.0/типамагаз.genruntimeconfig.cache
+/home/roman/programação/типамагаз/obj/Debug/net8.0/ref/типамагаз.dll
+/home/roman/programação/типамагаз (copy)/bin/Debug/net8.0/типамагаз
+/home/roman/programação/типамагаз (copy)/bin/Debug/net8.0/типамагаз.deps.json
+/home/roman/programação/типамагаз (copy)/bin/Debug/net8.0/типамагаз.runtimeconfig.json
+/home/roman/programação/типамагаз (copy)/bin/Debug/net8.0/типамагаз.dll
+/home/roman/programação/типамагаз (copy)/bin/Debug/net8.0/типамагаз.pdb
+/home/roman/programação/типамагаз (copy)/obj/Debug/net8.0/типамагаз.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/programação/типамагаз (copy)/obj/Debug/net8.0/типамагаз.AssemblyInfoInputs.cache
+/home/roman/programação/типамагаз (copy)/obj/Debug/net8.0/типамагаз.AssemblyInfo.cs
+/home/roman/programação/типамагаз (copy)/obj/Debug/net8.0/типамагаз.csproj.CoreCompileInputs.cache
+/home/roman/programação/типамагаз (copy)/obj/Debug/net8.0/типамагаз.dll
+/home/roman/programação/типамагаз (copy)/obj/Debug/net8.0/refint/типамагаз.dll
+/home/roman/programação/типамагаз (copy)/obj/Debug/net8.0/типамагаз.pdb
+/home/roman/programação/типамагаз (copy)/obj/Debug/net8.0/типамагаз.genruntimeconfig.cache
+/home/roman/programação/типамагаз (copy)/obj/Debug/net8.0/ref/типамагаз.dll
